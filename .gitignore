@@ -1,0 +1,5 @@
+.idea
+datasets
+venv
+preprocess_data
+__pycache__/
