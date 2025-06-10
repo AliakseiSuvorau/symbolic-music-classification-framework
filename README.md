@@ -5,6 +5,7 @@
 - `config.py` stores all the constants (for example, filenames)
 - `preprocess.py` creates two `json` files - first with pairs (`track_id`, `path to midi file`), and second with pairs (`track_id`, `tag`)
 - `msd.py` has a class for convenient interaction with MSD dataset
+- `dataset_analysis.py` displays a bar plot with data distribution between classes
 
 ### Plan
 
