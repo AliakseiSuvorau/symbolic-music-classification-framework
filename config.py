@@ -13,3 +13,8 @@ tagged_tracks_file = "preprocess_data/tagged_tracks.json"
 target_labels = ["Classical", "electronic", "country", "Hip-Hop", "rock", "pop", "jazz", "punk", "blues", "reggae"]
 
 tagged_midis_file = "preprocess_data/tagged_midis.json"
+
+finetune_labels = ["Classical", "electronic", "country", "Hip-Hop"]
+train_ids_file = "finetune/train_ids.json"
+val_ids_file = "finetune/val_ids.json"
+test_ids_file = "finetune/test_ids.json"
